@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.sln
+*.csproj
+*.user
+*.cache
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet
+*.nupkg
+packages/
+
+# Others
+*.log
+*.tlog
+*.pdb
+*.mdb
+*.dll
+*.exe
+*.app
+*.xap
